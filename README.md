@@ -1,6 +1,6 @@
 # CrypText: Hybrid File Encryption Utility
 
-This was our first semester project in programming fundamentals. We made a tool that takes a text file and locks it so no one else can read it. We used C++ to handle the files and change the data.
+This was our first semester project. We made a tool that takes a text file and locks it so no one else can read it. We used C++ to handle the files and change the data.
  A C++ command-line tool designed to secure text files using a multi-layer cryptographic approach.
 
 ## The Core Mechanism
